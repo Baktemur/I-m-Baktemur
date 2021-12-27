@@ -1,2 +1,7 @@
 # I-m-Baktemur
-while(alive)  {   eat();  sleep();  code(); }
+while(alive)  {   
+eat();  
+sleep(); 
+code(); 
+
+}
